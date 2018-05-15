@@ -1,6 +1,6 @@
 {
 	"Name": "Gnocchi",
-  "Type":"gnocchixyz-gnocchi-datasource",
+	"Type":"gnocchixyz-gnocchi-datasource",
 	"Url": "http://gnocchi-api:8041",
 	"Access": "proxy",
 	"BasicAuth": true,
