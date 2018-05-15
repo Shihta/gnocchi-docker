@@ -1,4 +1,4 @@
-FROM gnocchi-base
+FROM shihta/gnocchixyz-gnocchi-base
 ARG package_name=gnocchi
 
 ADD run-gnocchi.sh /

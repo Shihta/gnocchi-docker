@@ -1,4 +1,4 @@
-FROM collectd-base
+FROM shihta/gnocchixyz-collectd-base
 ARG package_name=collectd-gnocchi
 
 RUN pip install envtpl ${package_name}
